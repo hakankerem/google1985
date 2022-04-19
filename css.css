@@ -1,0 +1,47 @@
+.konum {
+
+  
+  margin: 0px;
+  height: 190px;
+
+}
+
+.birincikutu {
+
+  background-color: aquamarine;
+  position: relative;
+  left: 45px;
+  width: 500px;
+  text-align: center;
+  height: 80px;
+}
+
+.ikincikutu {
+  float: right;
+
+  background-color: aquamarine;
+  position: relative;
+  width: 500px;
+  text-align: center;
+  position: relative;
+  right: 470px;
+  top: -80px;
+  height: 80px;
+
+
+}
+
+.uc {
+  float: right;
+
+  background-color: aquamarine;
+  position: relative;
+  width: 300px;
+  text-align: center;
+  position: relative;
+  right: -340px;
+  top: -80px;
+  height: 80px;
+  
+
+}
